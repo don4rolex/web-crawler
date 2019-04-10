@@ -10,5 +10,5 @@ This project uses Spring Cloud, Spring Boot, JDK 8, Maven and JSoup for parsing 
 ## Usage
 1. Open project in IDE of choice. 
 2. Standalone jar can be generated using `mvn clean package`. 
-3. Run app with `java -jar /home/andrew/IdeaProjects/web-crawler/target/web-crawler-1.0-SNAPSHOT.jar <searchQuery>`
+3. Run app with `java -jar /target/web-crawler-1.0-SNAPSHOT.jar <searchQuery>`
 
