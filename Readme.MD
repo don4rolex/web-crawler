@@ -1,6 +1,6 @@
 # Java Web Crawler
 Java program which counts top Javascript libraries used in web pages found on Google.
-This project uses Spring Cloud, Spring Boot, JDK 8, Maven and JSoup for parsing HTML.
+This project uses JDK 8, Maven and JSoup for parsing HTML.
 
 # Build
 ## What you’ll need
